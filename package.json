@@ -28,7 +28,7 @@
     "c8": "^7.2.0",
     "errto": "^0.2.1",
     "iconv": "^2.3.5",
-    "iconv-lite": "0.6.2",
+    "iconv-lite": "git://github.com/ashtuchkin/iconv-lite",
     "mocha": "^3.5.3",
     "request": "^2.88.2",
     "semver": "^6.3.0",
